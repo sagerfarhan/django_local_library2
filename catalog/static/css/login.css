@@ -1,0 +1,23 @@
+/* LOGIN FORM */
+
+body.login {
+    background: rgba(185, 178, 178, 0.71);
+}
+.login #content {
+    padding: 20px 20px 0;
+}
+
+.login #container {
+    background: #fff;
+    border: 1px solid #eaeaea;
+    border-radius: 4px;
+    overflow: hidden;
+    width: 28em;
+    min-width: 300px;
+    margin: 100px auto;
+}
+
+.login #content-main {
+    width: 100%;
+}
+
